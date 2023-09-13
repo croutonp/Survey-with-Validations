@@ -1,0 +1,56 @@
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\appsettings.json
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\NewMVC.staticwebassets.runtime.json
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\NewMVC.exe
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\NewMVC.deps.json
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\NewMVC.runtimeconfig.json
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\NewMVC.dll
+C:\stacks\CSharp\Sep23\NewMVC\bin\Debug\net6.0\NewMVC.pdb
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.csproj.AssemblyReference.cache
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.AssemblyInfoInputs.cache
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.AssemblyInfo.cs
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.csproj.CoreCompileInputs.cache
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.RazorAssemblyInfo.cache
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.RazorAssemblyInfo.cs
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\scopedcss\bundle\NewMVC.styles.css
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\scopedcss\projectbundle\NewMVC.bundle.scp.css
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.dll
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\refint\NewMVC.dll
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.pdb
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\NewMVC.genruntimeconfig.cache
+C:\stacks\CSharp\Sep23\NewMVC\obj\Debug\net6.0\ref\NewMVC.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\appsettings.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\NewMVC.staticwebassets.runtime.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\NewMVC.exe
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\NewMVC.deps.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\NewMVC.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\NewMVC.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\bin\Debug\net6.0\NewMVC.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.RazorAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.RazorAssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\scopedcss\bundle\NewMVC.styles.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\scopedcss\projectbundle\NewMVC.bundle.scp.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\refint\NewMVC.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\NewMVC.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\ref\NewMVC.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets\msbuild.NewMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets\msbuild.build.NewMVC.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewMVC.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewMVC.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Survey with Validations\obj\Debug\net6.0\staticwebassets.pack.json

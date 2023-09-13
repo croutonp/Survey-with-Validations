@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+@* after calling the Survey class on line 6, we can leverage asp to connect data types using "asp-something" to the labels and inputs *@
+@model Survey
+
+<div class="text-center">
+    <form asp-controller="Home" asp-action="CreateSurvey" method="post">
+        <div class="mb-3">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" class="form-control">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Location">Location</label>
+            <select asp-for="Location" class="form-control">
+                <option value="Kansas">Kansas</option>
+                <option value="Kentucky">Kentucky</option>
+                <option value="Neo Kansas">Neo Kansas</option>
+            </select>
+            <span asp-validation-for="Location"  class="text-danger"></span>
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="Language">Language</label>
+            <select asp-for="Language" class="form-control">
+                <option value="C#">C#</option>
+                <option value="Python">Python</option>
+                
+            </select>
+            <span asp-validation-for="Language"  class="text-danger"></span>
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="Comment">Comment</label>
+            <textarea asp-for="Comment"  cols="30" rows="3" class="form-control"></textarea>
+            <span asp-validation-for="Comment" class="text-danger"></span>
+
+        </div>
+        <button class="btn btn-primary">Submit</button>
+    </form>
+</div>
